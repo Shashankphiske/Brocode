@@ -8,6 +8,7 @@
 a = int(input("Enter your age :"))
 def Age(a):
   print(f"Your age is {a}")
+  # or return "your age is" + a
 Age(a)  
   
   
