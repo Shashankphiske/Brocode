@@ -26,3 +26,5 @@ print(f"price{price1:+}")# any positive number is preceded with a + sign and any
 print(f"price {price2: }")# here space if there after :,they work the same a + but doesnt display + 
 print(f"price {price3:,}")# here , separates each thousands place
 print(f"price {price3:,.2f}")# here we mix and matched these specifiers
+# in python in for loop if we want to reverse a range we can also use reversed function
+# reversed(1,10)
